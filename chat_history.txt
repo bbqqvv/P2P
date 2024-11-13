@@ -1,0 +1,15 @@
+Đang lắng nghe trên cổng 1234
+Peer mới kết nối: /127.0.0.1
+Peer: Bạn đã được mời tham gia nhóm: VAN (0 thành viên)
+Peer: /127.0.0.1 has joined the group.
+V: Hello
+
+Đang lắng nghe trên cổng 12345
+Tạo nhóm mới: VAN
+Các thành viên: 
+Đã tham gia nhóm: VAN
+Kết nối với peer tại 127.0.0.1:1234
+Mời /127.0.0.1 tham gia nhóm: VAN (0 thành viên)
+Peer: Hello
+NAm: Hello
+
